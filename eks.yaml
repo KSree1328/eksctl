@@ -1,5 +1,5 @@
 #spot-cluster.yaml
-apiVersion: ekstl.io/v1alpha5
+apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
  
 metadata:
