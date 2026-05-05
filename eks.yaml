@@ -8,7 +8,7 @@ metadata:
   
 managedNodeGroups:
   - name: spot
-    instanceTypes: ["t3.medium", "t3a.medium"]
+    instanceTypes: ["t3.micro", "t3a.micro"]
     spot: true
     desiredCapacity: 2
 
